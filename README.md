@@ -1,5 +1,6 @@
 Shadowsocks for Windows
 =======================
+Support table method.
 
 [![Build Status]][Appveyor]
 
